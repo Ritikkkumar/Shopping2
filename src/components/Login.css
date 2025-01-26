@@ -1,0 +1,32 @@
+
+.maincontainer{
+    height: 450px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightgray;
+    gap:10px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.opp{
+    border: none;
+    background-color: white;
+}
+
+.button1{
+
+    width:100px;
+    border-radius: 10px;
+
+}

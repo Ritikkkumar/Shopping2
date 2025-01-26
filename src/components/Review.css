@@ -1,0 +1,15 @@
+
+.reviewrating{
+    color: green;
+    font-weight: bold;
+    font-size:20px;
+    margin-top: 15px;
+}
+
+.comment{
+    font-size: 25px;
+    font-weight: bold;
+}
+.extra{
+    font-size: 15px;
+}
